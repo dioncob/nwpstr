@@ -32,3 +32,9 @@ module.exports = {
     '@next/next/no-img-element': 'off',
   },
 };
+"prettier/prettier": [
+  "error",
+  {
+    "endOfLine": "auto"
+  },
+],
